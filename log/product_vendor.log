@@ -1,0 +1,18 @@
+[{"recipient":"arka422-facilitator@gmail.com","total":21.51,"currency":"USD","vendor_id":18,"payout_note":"Total commissions earned from WCMp as at 11:17:59 on 18-05-2016"}]
+-------------------------------------
+&L_EMAIL0=arka422-facilitator%40gmail.com&L_Amt0=21.51&L_UNIQUEID0=18&L_NOTE0=Total+commissions+earned+from+WCMp+as+at+11%3A17%3A59+on+18-05-2016&EMAILSUBJECT=You+have+money%21&RECEIVERTYPE=EmailAddress&CURRENCYCODE=USD
+-------------------------------------
+{"TIMESTAMP":"2016-05-18T11:18:02Z","CORRELATIONID":"56b7f5f6af987","ACK":"Success","VERSION":"65.1","BUILD":"000000"}
+-------------------------------------
+Cron Run Start for array creatation @ 18/05/2016 12:05:24 PM
+-------------------------------------
+[{"recipient":"arka422-facilitator@gmail.com","total":21.51,"currency":"USD","vendor_id":18,"payout_note":"Total commissions earned from WCMp as at 12:05:24 on 18-05-2016"}]
+-------------------------------------
+&L_EMAIL0=arka422-facilitator%40gmail.com&L_Amt0=21.51&L_UNIQUEID0=18&L_NOTE0=Total+commissions+earned+from+WCMp+as+at+12%3A05%3A24+on+18-05-2016&EMAILSUBJECT=You+have+money%21&RECEIVERTYPE=EmailAddress&CURRENCYCODE=USD
+-------------------------------------
+{"TIMESTAMP":"2016-05-18T12:05:27Z","CORRELATIONID":"227eb593ef9fb","ACK":"Success","VERSION":"65.1","BUILD":"000000"}
+-------------------------------------
+Cron Run Start for array creatation @ 19/05/2016 6:48:45 AM
+-------------------------------------
+Cron Run Start for array creatation @ 19/05/2016 7:07:01 AM
+-------------------------------------
